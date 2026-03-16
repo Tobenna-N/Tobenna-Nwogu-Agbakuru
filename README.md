@@ -43,4 +43,4 @@ Interactive dashboard visualizing financial metrics and performance indicators.
 # Connect with me
 
 LinkedIn: https://www.linkedin.com/in/tobenna101/ 
-Email: officailtobenna@gmail.com
+Email: officialtobenna@gmail.com
